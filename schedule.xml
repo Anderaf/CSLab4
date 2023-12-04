@@ -1,0 +1,32 @@
+<schedule lang="ru" group="P3114" day="thursday">
+    <lessons>
+        <lesson1>
+            <lesson-type>Лекция</lesson-type>
+            <time>08:20</time>
+            <name>Информатика</name>
+            <teacher>Балакшин Павел Валерьевич</teacher>
+            <location>Актовый зал (1216/0(усл)), ул.Ломоносова, д.9, лит. М</location>
+        </lesson1>
+        <lesson2>
+            <lesson-type>Лекция</lesson-type>
+            <time>10:00</time>
+            <name>Основы профессиональной деятельности</name>
+            <teacher>Клименков Сергей Викторович</teacher>
+            <location>Актовый зал (1216/0(усл)), ул.Ломоносова, д.9, лит. М</location>
+        </lesson2>
+        <lesson3>
+            <lesson-type>Лекция</lesson-type>
+            <time>13:30</time>
+            <name>Основы дискретной математики (базовый уровень)</name>
+            <teacher>Поляков Владимир Иванович</teacher>
+            <location>ауд. 2407, Кронверский пр., д.49, лит. А</location>
+        </lesson3>
+        <lesson4>
+            <lesson-type>Практика</lesson-type>
+            <time>15:20</time>
+            <name>Основы дискретной математики (базовый уровень)</name>
+            <teacher>Поляков Владимир Иванович</teacher>
+            <location>ауд. ауд.2304 (2304), Кронверский пр., д.49, лит. А</location>
+        </lesson4>
+    </lessons>
+</schedule>
